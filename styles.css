@@ -1,0 +1,29 @@
+h1{
+    background-color: rgb(216, 128, 93);
+    padding: 8px;
+    text-align: center;
+    margin: 0px auto;
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(70, 34, 5);
+}
+
+ul{
+    background-color: rgb(112, 27, 27);
+    padding: 8px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+li{
+    padding: 15px;
+    background-color: rgb(155, 100, 79);
+    margin: 8x auto;
+    margin-bottom: 5px white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+a{
+    color: rgb(238, 182, 61);
+    font-size: large;
+}
