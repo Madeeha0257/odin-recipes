@@ -6,9 +6,10 @@ h1{
     margin-bottom: 10px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color:rgb(70, 34, 5);
+    border-radius: 12px;
 }
 
-ul{
+.recipe-list{
     background-color: rgb(112, 27, 27);
     padding: 8px;
     margin: 0px auto;
@@ -27,3 +28,82 @@ a{
     color: rgb(238, 182, 61);
     font-size: large;
 }
+
+.home{
+    padding: 15px;
+    font-size: 20px;
+    margin: 10px auto;
+    border: 5px solid-black;
+    color: #2c210b;
+    background-color:  #bda16e;
+    position: static;
+    display: inline-block;
+    border-radius: 12px;
+}
+
+img{
+    width: 700px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+}
+
+.desc{
+    background-color: rgb(99, 165, 204);
+    border-radius: 12px;
+    padding: 8px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 35px;
+}
+
+.ingredients{
+    background-color: rgb(156, 204, 102);
+    border-radius: 12px;
+    padding: 8px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 35px;
+}
+
+.ingredient-list {
+    padding: 8px;
+}
+
+.ingredient-list li {
+    background: transparent;
+    margin: 0;
+    padding: 8px;
+}
+
+.steps{
+     background-color: rgb(218, 212, 133);
+    border-radius: 12px;
+    padding: 8px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 35px;
+}
+
+.steps-list{
+    padding: 8px;
+}
+
+.steps-list li{
+    background: transparent;
+    margin: 0;
+    padding: 8px;
+}
+
+.info{
+    background-color: rgb(180, 84, 148);
+    border-radius: 12px;
+    padding: 8px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 35px;
+    font-size: 25px;
+}
+
